@@ -1,6 +1,6 @@
 #include "Teloprogram.h" 
 
-teleProgram ===::tvProgram(string name, Time_ time)
+teleProgram ===::teleProgram(string name, Time_ time)
 {
 	this->name = name;
 	this->time = time;
